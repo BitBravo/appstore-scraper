@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.search-area{
+  display: inline-block;
+  padding: 20px;
+  border: solid 1px gray;
+}
+.search-area input{
+  margin-left: 20px !important;
+}
+.search-area select{
+  width: 165px;
+}
+.search-area spam{
+  display: block;
+  margin-top: 10px;
+  border-bottom: solid 1px darkgray;
+}
+.search-area button{
+  margin-top: 10px;
+  float: right;
+}
+.centerAlign{text-align: center;vertical-align: middle;}
